@@ -1,5 +1,8 @@
 # Game Shield
-This is a simple game guard which i made before for Conquer Online game to prevent the conquer.exe and magiceffect.ini files from being replaced  by other modified ones.
+This is a simple game guard which i made before for Conquer Online game to prevent the conquer.exe and magiceffect.ini files from being replaced  by other modified ones. 
+
+# Hooking?
+The shield requires no hooking at all. It runs in background.
 
 # How does it work?
 The shield works on validating the hashs of the files and sending it to the server, validating the SHA256 hash on the server and sending back to the shield whether these files are valid or no. The Shield also blocks any other moded Conquer files from running while connected to the server. As long as you're connected to the server, you can still play as soon as the Shield is killed, You'll be kicked from the game itself.
