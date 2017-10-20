@@ -1,0 +1,5 @@
+E:\d8m\Classic Protection\Classic Protection\Client Protection\bin\Debug\Client Protection.exe.config
+E:\d8m\Classic Protection\Classic Protection\Client Protection\bin\Debug\Client Protection.exe
+E:\d8m\Classic Protection\Classic Protection\Client Protection\bin\Debug\Client Protection.pdb
+E:\d8m\Classic Protection\Classic Protection\Client Protection\obj\Debug\Client Protection.exe
+E:\d8m\Classic Protection\Classic Protection\Client Protection\obj\Debug\Client Protection.pdb

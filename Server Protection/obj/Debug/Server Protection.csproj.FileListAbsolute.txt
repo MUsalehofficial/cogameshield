@@ -1,0 +1,5 @@
+E:\d8m\Classic Protection\Classic Protection\Server Protection\bin\Debug\Server Protection.exe.config
+E:\d8m\Classic Protection\Classic Protection\Server Protection\bin\Debug\Server Protection.exe
+E:\d8m\Classic Protection\Classic Protection\Server Protection\bin\Debug\Server Protection.pdb
+E:\d8m\Classic Protection\Classic Protection\Server Protection\obj\Debug\Server Protection.exe
+E:\d8m\Classic Protection\Classic Protection\Server Protection\obj\Debug\Server Protection.pdb
